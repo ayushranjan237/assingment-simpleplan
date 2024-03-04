@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --body-16: "Nunito Sans";
+  --header-3-3906: "PP Pangram Sans Rounded";
+  --font-sen: Sen;
+  --font-nunito: Nunito;
+  --font-circular-std: "Circular Std";
+
+  /* font sizes */
+  --font-size-smi: 13px;
+  --font-size-sm: 14px;
+  --font-size-lg: 18px;
+  --header-3-3906-size: 39.1px;
+  --font-size-xl: 20px;
+  --body-16-size: 16px;
+  --font-size-xs: 12px;
+  --font-size-6xl: 25px;
+  --font-size-77xl: 96px;
+
+  /* Colors */
+  --stylescape-3a-white: #fff;
+  --blue: #2430a0;
+  --color-steelblue: #51557d;
+  --stylescape-3a-blue-grey: #f4f7fa;
+  --orange: #fb7356;
+  --color-deeppink: #ff006d;
+  --color-gray-100: #7b7b7b;
+  --header: #1c1c1c;
+  --stylescape-1-black: #1b1b1b;
+  --color-sandybrown: #ffb051;
+  --color-gainsboro: #e5e5e5;
+  --color-lavenderblush: #fff0f4;
+  --color-indianred: #e25753;
+  --color-darkslateblue: #1b1f49;
+  --light-blue: #e9efff;
+  --color-lavender-100: #d3deec;
+  --stylescape-3a-grey: #4e4e4e;
+  --color-lightsteelblue: #bec4ff;
+  --color-darkslategray: #3e3e3e;
+  --color-darkgray-100: #a7a7a7;
+
+  /* Gaps */
+  --gap-0: 0px;
+  --gap-3xs: 10px;
+  --gap-lg: 18px;
+  --gap-base: 16px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-8xl: 27px;
+  --padding-xl: 20px;
+  --padding-11xs: 2px;
+  --padding-5xs: 8px;
+  --padding-10xs: 3px;
+  --padding-4xs: 9px;
+
+  /* Border radiuses */
+  --br-8xs: 5px;
+  --br-221xl: 240px;
+  --br-101xl: 120px;
+  --br-5xl: 24px;
+  --br-11xs: 2px;
+  --br-base: 16px;
+
+  /* Effects */
+  --text-undershadow: -2px 4px 4px rgba(79, 86, 146, 0.15);
+}
